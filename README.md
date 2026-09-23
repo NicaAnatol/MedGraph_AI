@@ -2,8 +2,6 @@
 
 **Hospital Intelligence Platform** — AI-powered clinical decision analysis with graph-based patient modeling and real-time hospital simulation.
 
-Built for **ITFest 2026**.
-
 **Production URL:** [`https://medgraph.vulniq.org`](https://medgraph.vulniq.org)
 
 ---
@@ -346,6 +344,3 @@ itfest/
 
 ---
 
-## License
-
-Built for ITFest 2026 hackathon.
